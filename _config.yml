@@ -5,7 +5,7 @@ meta_description: "我来看看"
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 15
+paginate: 1
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
