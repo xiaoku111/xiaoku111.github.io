@@ -5,8 +5,14 @@ date:   2013-11-10 10:18:00
 categories: Thriller Comedy Horror
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+用Git工具将整个项目Git clone下来，可以看一下现在的目录结构：
+这里进行一下各个文件（夹）的用途
+
+_config.yml ：全局配置文件
+posts :放文章的文件夹
+其他的文件夹是各页面的HTML文件，你可以点进去看看，尝试改变一下
+
+
 
 Jekyll also offers powerful support for code snippets:
 
