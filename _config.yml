@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Config
 # ========================================================================================
 
@@ -251,35 +250,6 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
-=======
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: 小宇宙 # ex. I m Chuan
-name: 库亚东 # ex. DONGChuan
-email: 529625072@qq.com
-location: 北京 # ex. Nice, France
-company: 数字一百
-company_url:https://www.taidu8.com
-github_url: https://xiaku111.github.io # ex. https://github.com/DONGChuan
-github_username:库亚东 # ex. DONGChuan
-description: 一个人只有一个命运
-favicon: favicon.png # Image must be in assets/images
-repository: xiaoku111/xiaoku111.github.io # ex. DONGChuan/DONGChuan.github.io
-
-# The base hostname & protocol for your site
-# For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://dongchuan.github.io
-url: http://localhost:4000
-
-## Gem
-gems:
->>>>>>> parent of fbd2bc0... Test
   - jekyll-paginate
   - jekyll-readme-index
   - jekyll-redirect-from
